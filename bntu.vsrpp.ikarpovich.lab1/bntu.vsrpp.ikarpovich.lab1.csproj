@@ -7,7 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\bntu.vsrpp.ikarpovich.Core\bntu.vsrpp.ikarpovich.Core.csproj" />
+    <PackageReference Include="StyleCop.Analyzers" Version="1.2.0-beta.376">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\bntu.vsrpp.ikarpovich.Core\Bntu.Vsrpp.Ikarpovich.Core.csproj" />
   </ItemGroup>
 
 </Project>

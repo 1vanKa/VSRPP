@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Students>
+  <Student>
+    <AAAAA>1233</AAAAA>
+    <FirstName>Tanmay</FirstName>
+    <LastName>Patil</LastName>
+    <Score>8</Score>
+    <Email>tanmaypatil@xyz.com</Email>
+    <Surname>N/A</Surname>
+  </Student>
+  <Student>
+    <Score>12</Score>
+    <Email>ivan@ivanov.com</Email>
+    <FirstName>Ivanov</FirstName>
+    <LastName>Ivan</LastName>
+    <Surname>Ivanovich</Surname>
+    <AAAAA>0</AAAAA>
+  </Student>
+  <Student>
+    <FirstName>Timur</FirstName>
+    <LastName>Ivanov</LastName>
+    <Score>8</Score>
+    <Email>timur@ivanov.com</Email>
+    <AAAAA>0</AAAAA>
+    <Surname>N/A</Surname>
+  </Student>
+</Students>

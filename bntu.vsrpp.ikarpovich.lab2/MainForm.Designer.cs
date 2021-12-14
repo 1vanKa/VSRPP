@@ -1,5 +1,5 @@
 ﻿
-namespace bntu.vsrpp.ikarpovich.lab2
+namespace Bntu.Vsrpp.Ikarpovich.Lab2
 {
     partial class MainForm
     {
@@ -66,7 +66,7 @@ namespace bntu.vsrpp.ikarpovich.lab2
             this.showCurrencyRateButton.TabIndex = 1;
             this.showCurrencyRateButton.Text = "Show Rate";
             this.showCurrencyRateButton.UseVisualStyleBackColor = true;
-            this.showCurrencyRateButton.Click += new System.EventHandler(this.showCurrencyRateButton_Click);
+            this.showCurrencyRateButton.Click += new System.EventHandler(this.ShowCurrencyRateButton_Click);
             // 
             // currencyRateLabel
             // 
@@ -133,7 +133,7 @@ namespace bntu.vsrpp.ikarpovich.lab2
             this.convertButton.TabIndex = 9;
             this.convertButton.Text = "Convert";
             this.convertButton.UseVisualStyleBackColor = true;
-            this.convertButton.Click += new System.EventHandler(this.convertButton_Click);
+            this.convertButton.Click += new System.EventHandler(this.ConvertButton_Click);
             // 
             // fromDateTimePicker
             // 
@@ -142,7 +142,7 @@ namespace bntu.vsrpp.ikarpovich.lab2
             this.fromDateTimePicker.Name = "fromDateTimePicker";
             this.fromDateTimePicker.Size = new System.Drawing.Size(200, 23);
             this.fromDateTimePicker.TabIndex = 10;
-            this.fromDateTimePicker.ValueChanged += new System.EventHandler(this.fromDateTimePicker_ValueChanged);
+            this.fromDateTimePicker.ValueChanged += new System.EventHandler(this.FromDateTimePicker_ValueChanged);
             // 
             // toDateTimePicker
             // 
@@ -195,7 +195,7 @@ namespace bntu.vsrpp.ikarpovich.lab2
             this.showButton.TabIndex = 16;
             this.showButton.Text = "Show";
             this.showButton.UseVisualStyleBackColor = true;
-            this.showButton.Click += new System.EventHandler(this.showButton_Click);
+            this.showButton.Click += new System.EventHandler(this.ShowButton_Click);
             // 
             // minMaxAvgCurrenciesLabel
             // 

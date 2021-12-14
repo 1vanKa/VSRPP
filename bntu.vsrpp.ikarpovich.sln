@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31624.102
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bntu.vsrpp.ikarpovich.lab1", "bntu.vsrpp.ikarpovich.lab1\bntu.vsrpp.ikarpovich.lab1.csproj", "{7C2F623C-5DD0-4BD9-88DA-0EBDCAA60B62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bntu.Vsrpp.Ikarpovich.Lab1", "bntu.vsrpp.ikarpovich.lab1\Bntu.Vsrpp.Ikarpovich.Lab1.csproj", "{7C2F623C-5DD0-4BD9-88DA-0EBDCAA60B62}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bntu.vsrpp.ikarpovich.Core", "bntu.vsrpp.ikarpovich.Core\bntu.vsrpp.ikarpovich.Core.csproj", "{498821CA-63D4-4061-8046-21E84A404228}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bntu.Vsrpp.Ikarpovich.Core", "bntu.vsrpp.ikarpovich.Core\Bntu.Vsrpp.Ikarpovich.Core.csproj", "{498821CA-63D4-4061-8046-21E84A404228}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bntu.vsrpp.ikarpovich.lab2", "bntu.vsrpp.ikarpovich.lab2\bntu.vsrpp.ikarpovich.lab2.csproj", "{66A21141-9FDD-476E-A422-B1EF637F8EEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bntu.Vsrpp.Ikarpovich.Lab2", "bntu.vsrpp.ikarpovich.lab2\Bntu.Vsrpp.Ikarpovich.Lab2.csproj", "{66A21141-9FDD-476E-A422-B1EF637F8EEF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
