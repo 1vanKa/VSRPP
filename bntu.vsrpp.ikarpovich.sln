@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bntu.Vsrpp.Ikarpovich.Core"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bntu.Vsrpp.Ikarpovich.Lab2", "bntu.vsrpp.ikarpovich.lab2\Bntu.Vsrpp.Ikarpovich.Lab2.csproj", "{66A21141-9FDD-476E-A422-B1EF637F8EEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bntu.Vsrpp.Ikarpovich.CoreTest", "Bntu.Vsrpp.Ikarpovich.CoreTest\Bntu.Vsrpp.Ikarpovich.CoreTest.csproj", "{1A0930A2-66E8-4A6E-AFE9-258C2F079B78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{66A21141-9FDD-476E-A422-B1EF637F8EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66A21141-9FDD-476E-A422-B1EF637F8EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66A21141-9FDD-476E-A422-B1EF637F8EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A0930A2-66E8-4A6E-AFE9-258C2F079B78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A0930A2-66E8-4A6E-AFE9-258C2F079B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A0930A2-66E8-4A6E-AFE9-258C2F079B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A0930A2-66E8-4A6E-AFE9-258C2F079B78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

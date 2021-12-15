@@ -8,7 +8,7 @@ namespace Bntu.Vsrpp.Ikarpovich.Core
     using System.Xml;
 
     /// <summary>
-    /// Extension.
+    /// Extension for XmlNode class.
     /// </summary>
     public static class XmlNodeExtension
     {
@@ -62,7 +62,7 @@ namespace Bntu.Vsrpp.Ikarpovich.Core
                 XmlNode fullName = node.SelectSingleNode("FIO") == null
                     ? node.SelectSingleNode("FullName") : node.SelectSingleNode("FIO");
                 string[] names = fullName.InnerText.Split(' ');
-                if (names.Length == 0)
+                if (names.Length == 1 && names[0] == string.Empty)
                 {
                     names = new string[] { "N/A", "N/A", "N/A" };
                 }

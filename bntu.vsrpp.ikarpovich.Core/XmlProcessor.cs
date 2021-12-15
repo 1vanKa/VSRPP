@@ -4,7 +4,6 @@
 
 namespace Bntu.Vsrpp.Ikarpovich.Core
 {
-    using System;
     using System.Collections.Generic;
     using System.Xml;
 
